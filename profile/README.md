@@ -8,7 +8,9 @@ This organization contains different solutions to different programming and soft
 
 This organization also serves more purpose, and <em><strong>in no way, contains answers to ALX SE Tasks.</strong></em>
 
-<p><strong>Twitter Hashtag:</strong></p> <a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
+
+<p><strong>Twitter Hashtag: </strong></p><a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
+
 
 ## Contributors:
 1. <a href ="https://github.com/dohoudaniel">Dohou Daniel</a>
