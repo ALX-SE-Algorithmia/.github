@@ -65,7 +65,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 54. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
 55. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
 56. <a href ="https://github.com/TeamKweku">Team Kweku</a>
-57. <a href ="https://github.com/"></a>
+57. <a href ="https://github.com/aqib-abdullahi">Aqib Abdullahi</a>
 58. <a href ="https://github.com/IamDaedalus">Manny</a>
 59. <a href ="https://github.com/Am-gabriel">Gabriel</a>
 60. <a href ="https://github.com/ekerejosh">Joshua Ekere</a>
@@ -77,8 +77,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 66. <a href ="https://github.com/gidambayiantony">Anthony Gidambayi</a>
 67. <a href ="https://github.com/Luckysolex">Lucky Solomon</a>
 68. <a href ="https://github.com/evanceodoyo">Evance Odoyo</a>
-69. <a href ="https://github.com/aqib-abdullahi">Aqib Abdullahi</a>
 <!--
+69. <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
