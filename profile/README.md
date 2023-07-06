@@ -28,7 +28,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 17. <a href ="https://github.com/chykB">Blessing Malik</a>
 18. <a href ="https://github.com/EmyCodes">Olamide Emmanuel Ogundare</a>
 19. <a href ="https://github.com/akellomick">Mickael Akello</a>
-20. <a href ="https://github.com/akellomick">AI-Areef</a>
+20. <a href ="https://github.com/NanaAba08">Elizabeth Williams</a>
 21. <a href ="https://github.com/khairatAA">Adeshina Khairat</a>
 22. <a href ="https://github.com/Dafrosti">Egbule Obinna</a>
 23. <a href ="https://github.com/black-onyx">Adwoa Me</a>
@@ -77,8 +77,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 66. <a href ="https://github.com/gidambayiantony">Anthony Gidambayi</a>
 67. <a href ="https://github.com/Luckysolex">Lucky Solomon</a>
 68. <a href ="https://github.com/evanceodoyo">Evance Odoyo</a>
+69. <a href ="https://github.com/NUCCASJNR">AI Areef</a>
 <!--
-69. <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
