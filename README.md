@@ -1,12 +1,17 @@
 # ALX SE Algorithmia 👩‍💻👨‍💻
 
 This organization belongs to <strong>ALX SE Students</strong> that are <strong>committed to problem-solving and building their soft skills</strong>.
+It is an <strong> open-source like GitHub organization for ALX SE Students.</strong>
 
 <em><strong>This organization is not officially affiliated with ALX SE Africa in any way.</strong></em>
 
 This organization contains different solutions to different programming and software engineering problems and projects.
 
 This organization also serves more purpose, and <em><strong>in no way, contains answers to ALX SE Tasks.</strong></em>
+
+
+<p><strong>Twitter Hashtag: </strong></p><a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
+
 
 ## Contributors:
 1. <a href ="https://github.com/dohoudaniel">Dohou Daniel</a>
@@ -28,7 +33,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 17. <a href ="https://github.com/chykB">Blessing Malik</a>
 18. <a href ="https://github.com/EmyCodes">Olamide Emmanuel Ogundare</a>
 19. <a href ="https://github.com/akellomick">Mickael Akello</a>
-20. <a href ="https://github.com/akellomick">AI-Areef</a>
+20. <a href ="https://github.com/NanaAba08">Elizabeth Williams</a>
 21. <a href ="https://github.com/khairatAA">Adeshina Khairat</a>
 22. <a href ="https://github.com/Dafrosti">Egbule Obinna</a>
 23. <a href ="https://github.com/black-onyx">Adwoa Me</a>
@@ -55,8 +60,56 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 44. <a href ="https://github.com/nsohpeter">Nsoh Peter</a>
 45. <a href ="https://github.com/Bigizic">Isaac</a>
 46. <a href ="https://github.com/Umi252">Umisigua</a>
-
+47. <a href ="https://github.com/Anniedevkiller">Annie Love</a>
+48. <a href ="https://github.com/owiamusic">Prince Abam</a>
+49. <a href ="https://github.com/beblicarl">Bebli Carl</a>
+50. <a href ="https://github.com/Akos-1">Akos</a>
+51. <a href ="https://github.com/De3an">De3an</a>
+52. <a href ="https://github.com/MarwaJacob">Marwa Jacob</a>
+53. <a href ="https://github.com/AceNonny">Mbaleme</a>
+54. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
+55. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
+56. <a href ="https://github.com/TeamKweku">Team Kweku</a>
+57. <a href ="https://github.com/aqib-abdullahi">Aqib Abdullahi</a>
+58. <a href ="https://github.com/IamDaedalus">Manny</a>
+59. <a href ="https://github.com/Am-gabriel">Gabriel</a>
+60. <a href ="https://github.com/ekerejosh">Joshua Ekere</a>
+61. <a href ="https://github.com/M-otanya">Motanya Dennis</a>
+62. <a href ="https://github.com/tam-dcreator">Tam</a>
+63. <a href ="https://github.com/udohchuks">Udoh Chuks</a>
+64. <a href ="https://github.com/shaznya">Nyagol Sharon</a>
+65. <a href ="https://github.com/EugeneMuhua">Eugene Muhua</a>
+66. <a href ="https://github.com/gidambayiantony">Anthony Gidambayi</a>
+67. <a href ="https://github.com/Luckysolex">Lucky Solomon</a>
+68. <a href ="https://github.com/evanceodoyo">Evance Odoyo</a>
+69. <a href ="https://github.com/NUCCASJNR">AI Areef</a>
 <!--
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
