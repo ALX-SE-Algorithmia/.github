@@ -1,6 +1,7 @@
 # ALX SE Algorithmia 👩‍💻👨‍💻
 
 This organization belongs to <strong>ALX SE Students</strong> that are <strong>committed to problem-solving and building their soft skills</strong>.
+It is an <strong> open-source like GitHub organization for ALX SE Students.</strong>
 
 <em><strong>This organization is not officially affiliated with ALX SE Africa in any way.</strong></em>
 
