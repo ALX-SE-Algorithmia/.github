@@ -146,8 +146,10 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 130. <a href ="https://github.com/ReboneMogotsi">Rebone Mogotsi</a>
 131. <a href ="https://github.com/HendrixTech">HendrixTech</a>
 132. <a href ="https://github.com/Onome1234">Victoria</a>
+133. <a href ="https://github.com/Collins331">Collins</a>
+134. <a href ="https://github.com/martyofmca">Martin</a>
 <!--
-<a href ="https://github.com/"></a>
+
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
