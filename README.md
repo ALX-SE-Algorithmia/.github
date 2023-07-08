@@ -19,7 +19,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 3. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
 4. <a href ="https://github.com/Certifieddonnie">McDonald Amure</a>
 5. <a href ="https://github.com/Elizzy01">Elizabeth Ogunmola</a>
-6. <a href ="https://github.com/OtunSam47">Samuel Otun</a>
+6. <a href ="https://github.com/EstyJ">Esther Joshua</a>
 7. <a href ="https://github.com/osadeleke">Olusegun Adeleke</a>
 8. <a href ="https://github.com/omondii">Brian Omondi</a>
 9. <a href ="https://github.com/odoh-tc">Tochukwu Odoh</a>
@@ -146,11 +146,12 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 130. <a href ="https://github.com/ReboneMogotsi">Rebone Mogotsi</a>
 131. <a href ="https://github.com/HendrixTech">HendrixTech</a>
 132. <a href ="https://github.com/Onome1234">Victoria</a>
+133. <a href ="https://github.com/Collins331">Collins</a>
+134. <a href ="https://github.com/martyofmca">Martin</a>
+135. <a href ="https://github.com/OtunSam47">Samuel Otun</a>
+136. <a href ="https://github.com/m00n-die">Reginald Amuzu</a>
+137. <a href ="https://github.com/thenoblet">Noble Patrick</a>
 <!--
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
