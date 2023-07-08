@@ -110,7 +110,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 94. <a href ="https://github.com/cynthiaakanpanab">Cynthia</a>
 95. <a href ="https://github.com/neurospicydev">Obiageli</a>
 96. <a href ="https://github.com/Adonijah01">Adonijah</a>
-97. <a href ="https://github.com/Abo1gomal91"></a>
+97. <a href ="https://github.com/Abo1gomal91">Tunde</a>
 98. <a href ="https://github.com/Babygeniuspics">Genius</a>
 99. <a href ="https://github.com/MAJ-Tech">Modi Alieu</a>
 100. <a href ="https://github.com/arewa01">Omotoso Joy</a>
@@ -125,7 +125,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 109. <a href ="https://github.com/Tobexint">Tobexint</a>
 110. <a href ="https://github.com/Makinstech">Akinwunmi</a>
 111. <a href ="https://github.com/Mburu-Elvis">Mburu Elvis</a>
-112. <a href ="https://github.com/Collins331"></a>
+112. <a href ="https://github.com/Collins331">Collins</a>
 113. <a href ="https://github.com/Niito99">TheRealOkine</a>
 114. <a href ="https://github.com/Namujibril">Jibril</a>
 115. <a href ="https://github.com/Akinayoola">Ayodeji</a>
@@ -146,11 +146,10 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 130. <a href ="https://github.com/ReboneMogotsi">Rebone Mogotsi</a>
 131. <a href ="https://github.com/HendrixTech">HendrixTech</a>
 132. <a href ="https://github.com/Onome1234">Victoria</a>
-133. <a href ="https://github.com/Collins331">Collins</a>
+133. <a href ="https://github.com/OtunSam47">Samuel Otun</a>
 134. <a href ="https://github.com/martyofmca">Martin</a>
-135. <a href ="https://github.com/OtunSam47">Samuel Otun</a>
-136. <a href ="https://github.com/m00n-die">Reginald Amuzu</a>
-137. <a href ="https://github.com/thenoblet">Noble Patrick</a>
+135. <a href ="https://github.com/m00n-die">Reginald Amuzu</a>
+136. <a href ="https://github.com/thenoblet">Noble Patrick</a>
 <!--
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
