@@ -105,7 +105,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 89. <a href ="https://github.com/scziny">Bukhosi</a>
 90. <a href ="https://github.com/mannie55">Mannie55</a>
 91. <a href ="https://github.com/AropetJ">Joel</a>
-92. <a href ="https://github.com/austynomillan">Augustine</a>
+92. <a href ="https://github.com/austynomilan">Augustine Odoh</a>
 93. <a href ="https://github.com/Hesbon01">Hesbon</a>
 94. <a href ="https://github.com/cynthiaakanpanab">Cynthia</a>
 95. <a href ="https://github.com/neurospicydev">Obiageli</a>
