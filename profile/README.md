@@ -134,7 +134,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 118. <a href ="https://github.com/declaudefrancois">Declaude Francois</a>
 119. <a href ="https://github.com/amprebonne">Emmanuel Bonou</a>
 120. <a href ="https://github.com/jobre95">Brenda Obami</a>
-121. <a href ="https://github.com/ValCaite">Valerie></a>
+121. <a href ="https://github.com/ValCaite">Valerie</a>
 122. <a href ="https://github.com/Taofeek-ATom">Atom</a>
 123. <a href ="https://github.com/hello-ejike">Ejike Chinedu</a>
 124. <a href ="https://github.com/Simplecodez">Gozie</a>
