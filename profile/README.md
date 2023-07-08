@@ -150,7 +150,11 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 134. <a href ="https://github.com/martyofmca">Martin</a>
 135. <a href ="https://github.com/m00n-die">Reginald Amuzu</a>
 136. <a href ="https://github.com/thenoblet">Noble Patrick</a>
+137. n<a href ="https://github.com/ohanyereemmanuel">Emmanuel Ohanyere</a>
+
 <!--
+<a href ="https://github.com/"></a>
+<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
