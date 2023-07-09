@@ -25,7 +25,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 9. <a href ="https://github.com/odoh-tc">Tochukwu Odoh</a>
 10. <a href ="https://github.com/Kaniniwambua">Kaniniwambua</a>
 11. <a href="https://github.com/Zymoclassic">Kolawole Moses</a>
-12. <a href ="https://github.com/fynefav3">Favour Agbaru</a>
+12. <a href ="https://github.com/shazaaly">Shaza Aly</a>
 13. <a href ="https://github.com/EustusMuchemi">Eustus Muchemi</a>
 14. <a href ="https://github.com/Endygrit">Endurance Ine Edward</a>
 15. <a href ="https://github.com/el898">Excel Alasonye</a>
@@ -152,9 +152,10 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 136. <a href ="https://github.com/thenoblet">Noble Patrick</a>
 137. <a href ="https://github.com/ohanyereemmanuel">Emmanuel Ohanyere</a>
 138. <a href ="https://github.com/Dawnellar">Dawnellar</a>
+139. <a href ="https://github.com/fynefav3">Favour Agbaru</a>
+140. <a href ="https://github.com/thelastmedici">Opeyemi Joshua</a>
+141. <a href ="https://github.com/reecevinto">Future Collins</a>
 <!--
-
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
