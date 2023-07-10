@@ -14,6 +14,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 
 ## Contributors:
+<!--
 1. <a href ="https://github.com/dohoudaniel">Dohou Daniel</a>
 2. <a href ="https://github.com/sirsamuelayodele">Samuel Ayodele</a>
 3. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
@@ -133,7 +134,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 117. <a href ="https://github.com/benjamingainyllo">Benjamin</a>
 118. <a href ="https://github.com/declaudefrancois">Declaude Francois</a>
 119. <a href ="https://github.com/amprebonne">Emmanuel Bonou</a>
-120. <a href ="https://github.com/jobre95">Brenda Obami</a>
+120. <a href ="https://github.com/jobren95">Brenda Obami</a>
 121. <a href ="https://github.com/ValCaite">Valerie</a>
 122. <a href ="https://github.com/Taofeek-ATom">Atom</a>
 123. <a href ="https://github.com/hello-ejike">Ejike Chinedu</a>
@@ -155,7 +156,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 139. <a href ="https://github.com/fynefav3">Favour Agbaru</a>
 140. <a href ="https://github.com/thelastmedici">Opeyemi Joshua</a>
 141. <a href ="https://github.com/reecevinto">Future Collins</a>
-<!--
+
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
