@@ -12,9 +12,9 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 <p><strong>Twitter Hashtag: </strong></p><a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
 
-
-## Contributors:
 <!--
+## Contributors:
+
 1. <a href ="https://github.com/dohoudaniel">Dohou Daniel</a>
 2. <a href ="https://github.com/sirsamuelayodele">Samuel Ayodele</a>
 3. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
