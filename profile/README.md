@@ -156,8 +156,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 139. <a href ="https://github.com/fynefav3">Favour Agbaru</a>
 140. <a href ="https://github.com/thelastmedici">Opeyemi Joshua</a>
 141. <a href ="https://github.com/reecevinto">Future Collins</a>
+142. <a href ="https://github.com/Astro175">Astro</a>
 
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 -->
