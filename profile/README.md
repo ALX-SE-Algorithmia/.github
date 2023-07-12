@@ -15,7 +15,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 <!--
 ## Contributors:
 
-1. <a href ="https://github.com/dohoudaniel">Dohou Daniel</a>
+1. <a href ="https://github.com/dohoudaniel">Dohou Daniel Favour</a>
 2. <a href ="https://github.com/sirsamuelayodele">Samuel Ayodele</a>
 3. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
 4. <a href ="https://github.com/Certifieddonnie">McDonald Amure</a>
@@ -157,6 +157,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 140. <a href ="https://github.com/thelastmedici">Opeyemi Joshua</a>
 141. <a href ="https://github.com/reecevinto">Future Collins</a>
 142. <a href ="https://github.com/Astro175">Astro</a>
+143. <a href ="https://github.com/dohoudaniel01">Dohou Daniel</a>
 
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
