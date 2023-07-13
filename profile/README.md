@@ -160,10 +160,10 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 143. <a href ="https://github.com/dohoudaniel01">Dohou Daniel</a>
 144. <a href ="https://github.com/Kingsize-17"></a>
 145. <a href ="https://github.com/Karlson124"></a>
+146. <a href ="https://github.com/vinsky001">Elvis</a>
+147. <a href ="https://github.com/ActuaryEmma">Emma</a>
+148. <a href ="https://github.com/10thcode">Atta Badu</a>
 
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
