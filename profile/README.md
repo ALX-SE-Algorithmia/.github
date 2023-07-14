@@ -164,8 +164,12 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 147. <a href ="https://github.com/ActuaryEmma">Emma</a>
 148. <a href ="https://github.com/10thcode">Atta Badu</a>
 149. <a href ="https://github.com/habeebdindi">Habeeb Dindi</a>
+150. <a href ="https://github.com/Manuelshub">Emmanuel</a>
+151. <a href ="https://github.com/AyanSwarga">Nicholas</a>
+152. <a href ="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
+153. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
+154. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
+155. <a href ="https://github.com/Najmasahal14">Majma</a>
 
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 -->
