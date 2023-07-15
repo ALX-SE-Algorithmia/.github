@@ -171,8 +171,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 154. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
 155. <a href ="https://github.com/Najmasahal14">Majma</a>
 156. <a href ="https://github.com/bobkindson">Kindson</a>
+157. <a href ="https://github.com/x4mu-l">Chukwuebuka</a>
+158. <a href ="https://github.com/Innosana">Innocent</a>
 
-<a href ="https://github.com/"></a>
-<a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 -->
