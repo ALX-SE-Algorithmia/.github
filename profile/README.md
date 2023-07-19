@@ -21,7 +21,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 4. <a href ="https://github.com/Certifieddonnie">McDonald Amure</a>
 5. <a href ="https://github.com/Elizzy01">Elizabeth Ogunmola</a>
 6. <a href ="https://github.com/EstyJ">Esther Joshua</a>
-7. <a href ="https://github.com/osadeleke">Olusegun Adeleke</a>
+7. <a href ="https://github.com/Najmasahal14">Najma</a>
 8. <a href ="https://github.com/omondii">Brian Omondi</a>
 9. <a href ="https://github.com/odoh-tc">Tochukwu Odoh</a>
 10. <a href ="https://github.com/Kaniniwambua">Kaniniwambua</a>
@@ -42,7 +42,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 25. <a href ="https://github.com/Anuoluwapo25">Anuoluwapo</a>
 26. <a href ="https://github.com/Tashukwa">Tashukwa</a>
 27. <a href ="https://github.com/Patoski-patoski">Patrick</a>
-28. <a href ="https://github.com/Davies-Magare">Davies Magare</a>
+28. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
 29. <a href ="https://github.com/Yayra91">Ruth Yayra</a>
 30. <a href ="https://github.com/MadukaJustice">Justice Chukwuemeka</a>
 31. <a href ="https://github.com/MuchesiaKe">Mucheisa</a>
@@ -69,7 +69,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 52. <a href ="https://github.com/MarwaJacob">Marwa Jacob</a>
 53. <a href ="https://github.com/AceNonny">Mbaleme</a>
 54. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
-55. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
+55. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
 56. <a href ="https://github.com/TeamKweku">Team Kweku</a>
 57. <a href ="https://github.com/aqib-abdullahi">Aqib Abdullahi</a>
 58. <a href ="https://github.com/IamDaedalus">Manny</a>
@@ -89,7 +89,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 72. <a href ="https://github.com/valentino7504">Edwin</a>
 73. <a href ="https://github.com/samuelogboye">Samuel Ogboye</a>
 74. <a href ="https://github.com/Ochijehfranklin">Franklin Ochijeh</a>
-75. <a href ="https://github.com/Payne680">Penn JNR</a>
+75. <a href ="https://github.com/bobkindson">Kindson</a>
 76. <a href ="https://github.com/Hullaah">Hullaah</a>
 77. <a href ="https://github.com/Si6a">Sibahlesithebe</a>
 78. <a href ="https://github.com/jerryseun">Jeremiah</a>
@@ -105,11 +105,11 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 88. <a href ="https://github.com/katlegokgotse">Katlegokgotse</a>
 89. <a href ="https://github.com/scziny">Bukhosi</a>
 90. <a href ="https://github.com/mannie55">Mannie55</a>
-91. <a href ="https://github.com/AropetJ">Joel</a>
+91. <a href ="https://github.com/Ruovagems">Favour Kelechukwu</a>
 92. <a href ="https://github.com/austynomilan">Augustine Odoh</a>
 93. <a href ="https://github.com/Hesbon01">Hesbon</a>
 94. <a href ="https://github.com/cynthiaakanpanab">Cynthia</a>
-95. <a href ="https://github.com/neurospicydev">Obiageli</a>
+95. <a href ="https://github.com/x4mu-l">Chukwuebuka</a>
 96. <a href ="https://github.com/Adonijah01">Adonijah</a>
 97. <a href ="https://github.com/Abo1gomal91">Tunde</a>
 98. <a href ="https://github.com/Babygeniuspics">Genius</a>
@@ -167,17 +167,26 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 150. <a href ="https://github.com/Manuelshub">Emmanuel</a>
 151. <a href ="https://github.com/AyanSwarga">Nicholas</a>
 152. <a href ="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
-153. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
-154. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
-155. <a href ="https://github.com/Najmasahal14">Majma</a>
-156. <a href ="https://github.com/bobkindson">Kindson</a>
-157. <a href ="https://github.com/x4mu-l">Chukwuebuka</a>
-158. <a href ="https://github.com/Innosana">Innocent</a>
-159. <a href ="https://github.com/Mubarak1A">Mubarak</a>
-160. <a href ="https://github.com/Ruovagems">Favour Kelechukwu</a>
+153. <a href ="https://github.com/Innosana">Innocent</a>
+154. <a href ="https://github.com/Mubarak1A">Mubarak</a>
+
+155. 
+156. 
+157. 
+158. 
+159. 
+160. 
 
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
 <a href ="https://github.com/"></a>
+
+## Members Who Left.
+1. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
+2. <a href ="https://github.com/Davies-Magare">Davies Magare</a>
+3. <a href ="https://github.com/AropetJ">Joel</a>
+4. <a href ="https://github.com/neurospicydev">Obiageli</a>
+5. <a href ="https://github.com/Payne680">Penn JNR</a>
+6. <a href ="https://github.com/osadeleke">Olusegun Adeleke</a>
 -->
