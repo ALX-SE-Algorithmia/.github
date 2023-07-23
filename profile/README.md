@@ -36,7 +36,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 19. <a href ="https://github.com/akellomick">Mickael Akello</a>
 20. <a href ="https://github.com/NanaAba08">Elizabeth Williams</a>
 21. <a href ="https://github.com/khairatAA">Adeshina Khairat</a>
-22. <a href ="https://github.com/Dafrosti">Egbule Obinna</a>
+22. <a href ="https://github.com/Mubarak1A">Mubarak</a>
 23. <a href ="https://github.com/black-onyx">Adwoa Me</a>
 24. <a href ="https://github.com/chisomchinaza">Chisom Chinaza</a>
 25. <a href ="https://github.com/Anuoluwapo25">Anuoluwapo</a>
@@ -168,8 +168,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 151. <a href ="https://github.com/AyanSwarga">Nicholas</a>
 152. <a href ="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
 153. <a href ="https://github.com/Innosana">Innocent</a>
-154. <a href ="https://github.com/Mubarak1A">Mubarak</a>
 
+154. 
 155. 
 156. 
 157. 
@@ -189,4 +189,5 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 4. <a href ="https://github.com/neurospicydev">Obiageli</a>
 5. <a href ="https://github.com/Payne680">Penn JNR</a>
 6. <a href ="https://github.com/osadeleke">Olusegun Adeleke</a>
+7. <a href ="https://github.com/Dafrosti">Egbule Obinna</a>
 -->
