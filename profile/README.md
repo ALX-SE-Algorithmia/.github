@@ -22,7 +22,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 5. <a href ="https://github.com/Elizzy01">Elizabeth Ogunmola</a>
 6. <a href ="https://github.com/EstyJ">Esther Joshua</a>
 7. <a href ="https://github.com/Najmasahal14">Najma</a>
-8. <a href ="https://github.com/omondii">Brian Omondi</a>
+8. <a href ="https://github.com/Adams2004">Charles Adams</a>
 9. <a href ="https://github.com/odoh-tc">Tochukwu Odoh</a>
 10. <a href ="https://github.com/Kaniniwambua">Kaniniwambua</a>
 11. <a href="https://github.com/Zymoclassic">Kolawole Moses</a>
@@ -168,8 +168,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 151. <a href ="https://github.com/AyanSwarga">Nicholas</a>
 152. <a href ="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
 153. <a href ="https://github.com/Innosana">Innocent</a>
+154. <a href ="https://github.com/omondii">Brian Omondi</a>
 
-154. 
 155. 
 156. 
 157. 
