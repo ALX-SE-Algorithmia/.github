@@ -169,8 +169,8 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 152. <a href ="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
 153. <a href ="https://github.com/Innosana">Innocent</a>
 154. <a href ="https://github.com/omondii">Brian Omondi</a>
+155. <a href ="https://github.com/ajipelumi">Ajisafe Pelumi</a>
 
-155. 
 156. 
 157. 
 158. 
