@@ -64,13 +64,13 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 47. <a href ="https://github.com/Anniedevkiller">Annie Love</a>
 48. <a href ="https://github.com/owiamusic">Prince Abam</a>
 49. <a href ="https://github.com/beblicarl">Bebli Carl</a>
-50. <a href ="https://github.com/Akos-1">Akos</a>
+50. <a href ="https://github.com/Akos-1">Veronica Gyasi</a>
 51. <a href ="https://github.com/De3an">De3an</a>
 52. <a href ="https://github.com/MarwaJacob">Marwa Jacob</a>
 53. <a href ="https://github.com/AceNonny">Mbaleme</a>
 54. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
 55. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
-56. <a href ="https://github.com/TeamKweku">Team Kweku</a>
+56. <a href ="https://github.com/TeamKweku">Theophilus Ackom</a>
 57. <a href ="https://github.com/aqib-abdullahi">Aqib Abdullahi</a>
 58. <a href ="https://github.com/IamDaedalus">Manny</a>
 59. <a href ="https://github.com/Am-gabriel">Gabriel</a>
@@ -132,10 +132,10 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 115. <a href ="https://github.com/Akinayoola">Ayodeji</a>
 116. <a href ="https://github.com/codebymaganga">Maganga</a>
 117. <a href ="https://github.com/benjamingainyllo">Benjamin</a>
-118. <a href ="https://github.com/declaudefrancois">Declaude Francois</a>
+118. <a href ="https://github.com/declaudefrancois">Declaude Francois Nkouka</a>
 119. <a href ="https://github.com/amprebonne">Emmanuel Bonou</a>
 120. <a href ="https://github.com/jobren95">Brenda Obami</a>
-121. <a href ="https://github.com/ValCaite">Valerie</a>
+121. <a href ="https://github.com/ValCaite">Valerie Catie</a>
 122. <a href ="https://github.com/Taofeek-ATom">Atom</a>
 123. <a href ="https://github.com/hello-ejike">Ejike Chinedu</a>
 124. <a href ="https://github.com/Simplecodez">Gozie</a>
@@ -170,11 +170,12 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 153. <a href ="https://github.com/Innosana">Innocent</a>
 154. <a href ="https://github.com/omondii">Brian Omondi</a>
 155. <a href ="https://github.com/ajipelumi">Ajisafe Pelumi</a>
-156. <a href ="https://github.com/atcocoder">Omar</a>
+156. <a href ="https://github.com/atcocoder">Omar Jammeh</a>
 157. <a href ="https://github.com/SamuelWorld20">Samuel Oluwaseyi</a>
 158. <a href ="https://github.com/nuuxcode">Nuuxcode</a>
 159. <a href ="https://github.com/Hawanah-01">Hawanat</a>
 160. <a href ="https://github.com/jailan-sh">Jailan-sh</a>
+161. <a href="https://github.com/flexywork327">Felix</a>
 
 
 ## Members Who Left.
