@@ -19,7 +19,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 2. <a href="https://github.com/Algorithmia-SE-2023">Algorithmia SE</a>
 3. <a href="https://github.com/dohoudaniel01">Dohou Daniel</a>
 4. <a href="https://github.com/sirsamuelayodele">Samuel Ayodele</a>
-5. <a href="https://github.com/2023rahabu">Carine</a>
+5. <a href="https://github.com/2023rahabu">Rahab Uwamahoro</a>
 6. <a href="https://github.com/Collins331">Collins</a>
 7. <a href="https://github.com/declaudefrancois">Declaude Francois Nkouka</a>
 8. <a href="https://github.com/EmyCodes">Olamide Emmanuel Ogundare</a>
