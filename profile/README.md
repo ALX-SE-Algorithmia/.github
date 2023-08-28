@@ -33,7 +33,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 16. <a href="https://github.com/10thcode">Atta Badu</a>
 17. <a href="https://github.com/ActuaryEmma">Emma Gacoki</a>
 18. <a href="https://github.com/Adams2004">Charles Adams</a>
-19. <a href="https://github.com/Akos-1">Veronica</a>
+19. <a href="https://github.com/Akos-1">Veronica Gyasi</a>
 20. <a href="https://github.com/amandawarima">Amanda</a>
 21. <a href="https://github.com/Anniedevkiller">Annie Love Devkiller</a>
 22. <a href="https://github.com/Bigizic">Isaac</a>
@@ -62,26 +62,25 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 44. <a href="https://github.com/vinsky001">Elvis</a>
 45. <a href="https://github.com/Astro175">Astro</a>
 46. <a href="https://github.com/Am-gabriel">Gabriel</a>
-47. <a href="https://github.com/AndyGyasi">Andy Gyasi</a>
-48. <a href="https://github.com/Zymoclassic">Kolawole Moses</a>
-49. <a href="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
-50. <a href="https://github.com/Chima-01">Divine Chima</a>
-51. <a href="https://github.com/arewa01">Omotoso Joy</a>
-52. <a href="https://github.com/reecevinto">Future Collins</a>
-53. <a href="https://github.com/TechDanny">Danny</a>
-54. <a href="https://github.com/amprebonne">Emmanuel Bonou</a>
-55. <a href="https://github.com/Ochijehfranklin">Franklin Ochijeh</a>
-56. <a href="https://github.com/Hawanah-01">Hawanat</a>
-57. <a href ="https://github.com/akellomick">Mickael Akello</a>
-58. <a href ="https://github.com/Najmasahal14">Najma</a>
-59. <a href ="https://github.com/Youngman-d-coder">Nelson Chimdiadi</a>
-60. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
-61. <a href ="https://github.com/Femshot">Oluwafemi</a>
-62. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
-63. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
-64. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
-65. <a href ="https://github.com/TheMaganga">Maganga</a>
-66. <a href ="https://github.com/ValCaite">Valerie Catie</a>
+47.<a href="https://github.com/Zymoclassic">Kolawole Moses</a>
+48. <a href="https://github.com/PriscillaRoyals">Prisca Ekhaguere</a>
+49. <a href="https://github.com/Chima-01">Divine Chima</a>
+50. <a href="https://github.com/arewa01">Omotoso Joy</a>
+51. <a href="https://github.com/reecevinto">Future Collins</a>
+52. <a href="https://github.com/TechDanny">Danny</a>
+53. <a href="https://github.com/amprebonne">Emmanuel Bonou</a>
+54. <a href="https://github.com/Ochijehfranklin">Franklin Ochijeh</a>
+55. <a href="https://github.com/Hawanah-01">Hawanat</a>
+56. <a href ="https://github.com/akellomick">Mickael Akello</a>
+57. <a href ="https://github.com/Najmasahal14">Najma</a>
+58. <a href ="https://github.com/Youngman-d-coder">Nelson Chimdiadi</a>
+59. <a href ="https://github.com/Dprof-code">Olawale Adedamola</a>
+60. <a href ="https://github.com/Femshot">Oluwafemi</a>
+61. <a href ="https://github.com/kelvinklein205">Kelvin Klein</a>
+62. <a href ="https://github.com/Pavilion-devs">Ola Pavilion</a>
+63. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
+64. <a href ="https://github.com/TheMaganga">Maganga</a>
+65. <a href ="https://github.com/ValCaite">Valerie Catie</a>
 </em></strong>
 
 
