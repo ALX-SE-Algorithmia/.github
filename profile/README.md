@@ -42,7 +42,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 25. <a href="https://github.com/DestinedCodes">Destiny</a>
 26. <a href="https://github.com/ekerejosh">Joshua Ekere</a>
 27. <a href="https://github.com/el898">Excel Alasonye</a>
-28. <a href="https://github.com/evanceodoyo">Evance Odoyo</a>
+28. <a href ="https://github.com/Elizzy01">Elizabeth Ogunmola</a>
 29. <a href="https://github.com/Hullaah">Hullaah</a>
 30. <a href="https://github.com/jailan-sh">Jailan Elsherbiny</a>
 31. <a href="https://github.com/KabzaKole">Kabelo Kole Masela</a>
@@ -81,11 +81,11 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 64. <a href ="https://github.com/Smartjona111">Jonathan Asogba</a>
 65. <a href ="https://github.com/TheMaganga">Maganga</a>
 66. <a href ="https://github.com/ValCaite">Valerie Catie</a>
+67. <a href="https://github.com/evanceodoyo">Evance Odoyo</a>
 </em></strong>
 
 
 <!--
-<a href ="https://github.com/Elizzy01">Elizabeth Ogunmola</a>
 <a href ="https://github.com/EstyJ">Esther Joshua</a>
 <a href ="https://github.com/Kaniniwambua">Kaniniwambua</a>
 <a href ="https://github.com/EustusMuchemi">Eustus Muchemi</a>
