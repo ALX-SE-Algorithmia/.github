@@ -13,7 +13,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 <strong>Static Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
 
-<strong>Blog:</strong> <strong><a href="https://algorithmiasecollaborators.hashnode.dev/">Algorithmia SE</a>
+<strong>Blog:</strong> <strong><a href="https://hashnode.com/@AlgorithmiaSE">Algorithmia SE</a>
 
 ## Algorithmians 🌏 (Members):
 <strong><em>
