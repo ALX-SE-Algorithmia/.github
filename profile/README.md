@@ -1,4 +1,4 @@
-# ALX SE Algorithmia 👩‍💻👨‍💻
+# Algorithmia SE 🌏
 
 This organization belongs to <strong>ALX SE Students</strong> who are <strong>committed to problem-solving and building their soft skills</strong>.
 It is an <strong> open-source like GitHub organization for ALX SE Students.</strong>
@@ -11,7 +11,9 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 <strong>Twitter Hashtag:</strong> <a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
 
-<strong>Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
+<strong>Static Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
+
+<strong>Blog:</strong> <strong><a href="https://algorithmiasecollaborators.hashnode.dev/">Algorithmia SE</a>
 
 ## Algorithmians 🌏 (Members):
 <strong><em>
