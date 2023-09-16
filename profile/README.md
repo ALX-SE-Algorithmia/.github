@@ -36,7 +36,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 15. <a href="https://github.com/valentino7504">Edwin Ade</a>
 16. <a href="https://github.com/10thcode">Atta Badu</a>
 17. <a href="https://github.com/ActuaryEmma">Emma Gacoki</a>
-18. <a href="https://github.com/Adams2004">Charles Adams</a>
+18. <a href="https://github.com/Adams2004">Chris-Adams Adewunni</a>
 19. <a href="https://github.com/Akos-1">Veronica Gyasi</a>
 20. <a href="https://github.com/amandawarima">Amanda</a>
 21. <a href="https://github.com/Anniedevkiller">Annie Love Devkiller</a>
