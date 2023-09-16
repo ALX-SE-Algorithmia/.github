@@ -85,6 +85,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 66. <a href ="https://github.com/ValCaite">Valerie Catie</a>
 67. <a href="https://github.com/evanceodoyo">Evance Odoyo</a>
 68. <a href="github.com/OluwaninsolaAO/">Oluwaninsola Abraham</a>
+69. <a href ="https://github.com/masha-a-m">Maryam</a>
 </em></strong>
 
 
@@ -183,6 +184,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 <a href ="https://github.com/ajipelumi">Ajisafe Pelumi</a>
 <a href ="https://github.com/atcocoder">Omar Jammeh</a>
 <a href ="https://github.com/nuuxcode">Nuuxcode</a>
+
 
 ## Exited
 1. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
