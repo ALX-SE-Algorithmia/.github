@@ -38,7 +38,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 17. <a href="https://github.com/ActuaryEmma">Emma Gacoki</a>
 18. <a href="https://github.com/Adams2004">Chris-Adams Adewunni</a>
 19. <a href="https://github.com/Akos-1">Veronica Gyasi</a>
-20. <a href="https://github.com/amandawarima">Amanda</a>
+20. <a href="https://github.com/amandawarima">Amanda Warima</a>
 21. <a href="https://github.com/Anniedevkiller">Annie Love Devkiller</a>
 22. <a href="https://github.com/Bigizic">Isaac</a>
 23. <a href="https://github.com/Certifieddonnie">McDonald Amure</a>
