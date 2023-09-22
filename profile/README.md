@@ -89,6 +89,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 68. <a href="https://github.com/OluwaninsolaAO/">Oluwaninsola Abraham</a>
 69. <a href ="https://github.com/masha-a-m">Maryam Garba</a>
 70. <a href="https://github.com/oladosuabayomi">Oladosu Abayomi</a>
+71. <a href="https://github.com/Jennycode7/">Jennifer Cosmas</a>
 </em></strong>
 
 
