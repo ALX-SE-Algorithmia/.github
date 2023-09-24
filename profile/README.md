@@ -90,6 +90,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 69. <a href ="https://github.com/masha-a-m">Maryam Garba</a>
 70. <a href="https://github.com/oladosuabayomi">Oladosu Abayomi</a>
 71. <a href="https://github.com/Jennycode7/">Jennifer Cosmas</a>
+72. <a href="https://github.com/chisomchinaza">Chisom Chinaza</a>
 </em></strong>
 
 
