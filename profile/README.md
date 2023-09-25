@@ -1,3 +1,4 @@
+<!-- ![Algorithmia SE 🌍](https://github.com/ALX-SE-Algorithmia/.github/blob/main/profile/Algorithmia%20SE.jpg) -->
 # Algorithmia SE 🌏
 
 This organization belongs to <strong>ALX SE Students</strong> who are <strong>committed to problem-solving and building their soft skills</strong>.
