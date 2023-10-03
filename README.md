@@ -1,7 +1,8 @@
-# ALX SE Algorithmia 👩‍💻👨‍💻
+<!-- ![Algorithmia SE 🌍](https://github.com/ALX-SE-Algorithmia/.github/blob/main/profile/Algorithmia%20SE.jpg) -->
+# Algorithmia SE 🌏
 
 This organization belongs to <strong>ALX SE Students</strong> who are <strong>committed to problem-solving and building their soft skills</strong>.
-It is an <strong> open-source like GitHub organization for ALX SE Students.</strong>
+It is an <strong> open-source GitHub organization for ALX SE Students.</strong>
 
 <em><strong>This organization is not officially affiliated with ALX SE Africa in any way.</strong></em>
 
@@ -9,9 +10,13 @@ This organization contains different solutions to different programming and soft
 
 This organization also serves more purpose, and <em><strong>in no way, contains answers to ALX SE Tasks.</strong></em>
 
-<strong>Twitter Hashtag:</strong> <a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click">ALX SE Algorithmia</a>
+<strong>Twitter Hashtag:</strong> <a href="https://twitter.com/hashtag/ALX_SE_Algorithmia?src=hashtag_click&f=live">ALX SE Algorithmia</a>
 
-<strong>Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
+<strong>Static Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
+
+<strong>Hashnode Blog:</strong> <strong><a href="https://hashnode.com/@AlgorithmiaSE">Algorithmia SE</a>
+
+<strong>LinkedIn:</strong> <strong><a href="https://www.linkedin.com/in/algorithmia-se-0743b9283/">Algorithmia SE</a>
 
 ## Algorithmians 🌏 (Members):
 <strong><em>
@@ -32,9 +37,9 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 15. <a href="https://github.com/valentino7504">Edwin Ade</a>
 16. <a href="https://github.com/10thcode">Atta Badu</a>
 17. <a href="https://github.com/ActuaryEmma">Emma Gacoki</a>
-18. <a href="https://github.com/Adams2004">Charles Adams</a>
+18. <a href="https://github.com/Adams2004">Chris-Adams Adewunni</a>
 19. <a href="https://github.com/Akos-1">Veronica Gyasi</a>
-20. <a href="https://github.com/amandawarima">Amanda</a>
+20. <a href="https://github.com/amandawarima">Amanda Warima</a>
 21. <a href="https://github.com/Anniedevkiller">Annie Love Devkiller</a>
 22. <a href="https://github.com/Bigizic">Isaac</a>
 23. <a href="https://github.com/Certifieddonnie">McDonald Amure</a>
@@ -82,6 +87,12 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 65. <a href ="https://github.com/TheMaganga">Maganga</a>
 66. <a href ="https://github.com/ValCaite">Valerie Catie</a>
 67. <a href="https://github.com/evanceodoyo">Evance Odoyo</a>
+68. <a href="https://github.com/OluwaninsolaAO/">Oluwaninsola Abraham</a>
+69. <a href ="https://github.com/masha-a-m">Maryam Garba</a>
+70. <a href="https://github.com/oladosuabayomi">Oladosu Abayomi</a>
+71. <a href="https://github.com/Jennycode7/">Jennifer Cosmas</a>
+72. <a href="https://github.com/chisomchinaza">Chisom Chinaza</a>
+73. <a href="https://github.com/Collinskayode3">Collins Bamidele</a>
 </em></strong>
 
 
@@ -180,6 +191,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 <a href ="https://github.com/ajipelumi">Ajisafe Pelumi</a>
 <a href ="https://github.com/atcocoder">Omar Jammeh</a>
 <a href ="https://github.com/nuuxcode">Nuuxcode</a>
+
 
 ## Exited
 1. <a href ="https://github.com/afuahsekyiwaaadusei">Afuah</a>
