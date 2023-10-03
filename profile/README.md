@@ -14,7 +14,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 <strong>Static Website:</strong> <strong><a href="https://alx-se-algorithmia.github.io/">Algorithmia SE</a></strong>
 
-<strong>Blog:</strong> <strong><a href="https://hashnode.com/@AlgorithmiaSE">Algorithmia SE</a>
+<strong>Hashnode Blog:</strong> <strong><a href="https://hashnode.com/@AlgorithmiaSE">Algorithmia SE</a>
 
 <strong>LinkedIn:</strong> <strong><a href="https://www.linkedin.com/in/algorithmia-se-0743b9283/">Algorithmia SE</a>
 
