@@ -58,7 +58,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 36. <a href="https://github.com/Namujibril">Jibril</a>
 37. <a href="https://github.com/odoh-tc">Tochukwu Odoh</a>
 38. <a href="https://github.com/rodgersxy">Rodgers Nyakundi</a>
-39. <a href="https://github.com/Ruovagems">Favour Kelechukwu</a>
+39. <a href="https://github.com/kelechukwufavour">Favour Kelechukwu</a>
 40. <a href="https://github.com/samuelogboye">Samuel Ogboye</a>
 41. <a href="https://github.com/SamuelWorld20">Samuel Oluwaseyi</a>
 42. <a href="https://github.com/shazaaly">Shaza Aly</a>
