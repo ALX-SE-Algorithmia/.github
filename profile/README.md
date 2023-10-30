@@ -18,6 +18,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 
 <strong>LinkedIn:</strong> <strong><a href="https://www.linkedin.com/in/algorithmia-se-0743b9283/">Algorithmia SE</a>
 
+<!--
 ## Algorithmians 🌏 (Members):
 <strong><em>
 1. <a href="https://github.com/dohoudaniel">Dohou Daniel Favour</a>
@@ -94,6 +95,7 @@ This organization also serves more purpose, and <em><strong>in no way, contains 
 72. <a href="https://github.com/chisomchinaza">Chisom Chinaza</a>
 73. <a href="https://github.com/Collinskayode3">Collins Bamidele</a>
 </em></strong>
+-->
 
 
 <!--
