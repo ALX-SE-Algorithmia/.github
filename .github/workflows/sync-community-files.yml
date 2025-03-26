@@ -1,0 +1,60 @@
+name: Sync Community Files to New Repos
+
+on:
+  repository_dispatch:
+    types: [new_repo_created]  # Triggered by the detect-new-repos workflow
+
+jobs:
+  sync_files:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout .github repository
+        uses: actions/checkout@v4
+
+      - name: Get repository name
+        run: echo "NEW_REPO=${{ github.event.client_payload.repo_full_name }}" >> $GITHUB_ENV
+
+      - name: Prepare community files
+        run: |
+          # Remove existing directories to avoid conflicts
+          rm -rf community-files
+          mkdir -p community-files .github/workflows  # Ensure directories exist
+
+          # Copy community files only if they exist
+          for file in CONTRIBUTING.md CODE_OF_CONDUCT.md SECURITY.md LICENSE; do
+            [[ -f $file ]] && cp $file community-files/
+          done
+
+          # Ensure workflows directory exists
+          mkdir -p community-files/.github/workflows
+
+          # Copy ALL workflow files from .github/workflows/
+          if [[ -d .github/workflows ]]; then
+            cp -r .github/workflows/auto_merge.yml community-files/.github/workflows/
+          else
+            echo "Warning: .github/workflows directory not found!"
+          fi
+
+      - name: Clone the new repository
+        run: |
+          git clone https://x-access-token:${{ secrets.GH_PAT }}@github.com/${NEW_REPO}.git new-repo
+          cd new-repo
+
+          # Copy community files into the repo
+          cp -r ../community-files/* .
+
+          # Ensure .github/workflows exists in the new repo
+          mkdir -p .github/workflows
+          
+          # Move all workflow files to the correct location
+          if [[ -d ../community-files/.github/workflows ]]; then
+            cp -r ../community-files/.github/workflows/* .github/workflows/
+          fi
+
+          git config --global user.email "github-actions@github.com"
+          git config --global user.name "GitHub Actions"
+
+          git add .
+          git commit -m "Add community standard files and workflows" || echo "No changes to commit"
+          git push origin main || echo "No changes to push"
