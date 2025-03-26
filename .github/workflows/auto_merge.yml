@@ -1,0 +1,36 @@
+name: Auto Merge PRs
+
+on:
+  pull_request:
+    types:
+      - opened
+      - synchronize
+      - reopened
+      - ready_for_review
+    branches:
+      - main
+
+jobs:
+  auto-merge:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+      pull-requests: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Enable auto-merge for PR
+        run: |
+          gh pr merge --auto --merge "$PR_URL"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
+
+      - name: Merge PR if no conflicts
+        run: |
+          gh pr merge --squash --admin "$PR_URL"
+        env:
+          GH_TOKEN: ${{ secrets.GH_PAT }}
+          PR_URL: ${{ github.event.pull_request.html_url }}
