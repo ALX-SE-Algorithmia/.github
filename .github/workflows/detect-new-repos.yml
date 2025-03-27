@@ -16,7 +16,7 @@ jobs:
         run: |
           # Fetch latest repo
           RESPONSE=$(curl -s -H "Authorization: token $GH_PAT" \
-          "https://api.github.com/orgs/The-Bulls/repos?sort=created&per_page=1")
+          "https://api.github.com/orgs/ALX-SE-Algorithmia/repos?sort=created&per_page=1")
           
           echo "GitHub API Response: $RESPONSE"
           
@@ -41,7 +41,7 @@ jobs:
             # Trigger the sync workflow
             curl -X POST -H "Authorization: token $GH_PAT" \
               -H "Accept: application/vnd.github.everest-preview+json" \
-              "https://api.github.com/repos/The-Bulls/.github/dispatches" \
+              "https://api.github.com/repos/ALX-SE-Algorithmia/.github/dispatches" \
               -d "{\"event_type\": \"new_repo_created\", \"client_payload\": {\"repo_full_name\": \"$NEW_REPO\"}}"
           else
             echo "No new repositories found."
