@@ -13,7 +13,7 @@ To keep development centralized and improve CI/CD, project structure, and collab
 - Prepare for new features (project showcase, contributor dashboard).
 
 ---
-
+<!--
 ## What you should do (if you have a local clone)
 
 If you already cloned this old repository locally, update your `origin` remote to point to the new repository:
@@ -93,15 +93,15 @@ If you need to reply to contributors, use this short message:
 * **Forks:** Forks of the old repo remain associated with it. Contributors who rely on forks should re-fork the new repository to ensure pull requests target the right upstream.
 * **Stars:** Stars on the old repo will remain. If you want to preserve community signal, pin the new repo in organization settings and announce the move on social channels.
 
----
+--->
 
 ## Contact / Help
 
 If you run into any migration problems, reach out:
 
 * Maintainer: **Daniel Dohou** — [https://github.com/dohoudaniel](https://github.com/dohoudaniel)
-<!-- * Community: (Discord/Slack link)
-* Or open an issue in the new repo: [https://github.com/Algorithmia-SE/NEW-REPO-NAME/issues](https://github.com/Algorithmia-SE/NEW-REPO-NAME/issues) -->
+* Community: (Discord/Slack link)
+* Or open an issue in the new repo: [https://github.com/Algorithmia-SE/NEW-REPO-NAME/issues](https://github.com/Algorithmia-SE/NEW-REPO-NAME/issues)
 
 ---
 
